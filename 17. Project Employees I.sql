@@ -1,4 +1,4 @@
-https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50
+# https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50
 
 
 # Write your MySQL query statement below
