@@ -1,4 +1,4 @@
-https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50
+# https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50
 
 
 -- SELECT DISTINCT p1.product_id, COALESCE(t2.new_price, 10) AS price
