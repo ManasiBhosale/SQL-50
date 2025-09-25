@@ -16,4 +16,5 @@ The problems covered a wide range of SQL concepts, including:
 
 I completed the **SQL 50** module and earned this badge:  
 
-![LeetCode SQL Badge](https://leetcode.com/static/images/badges/sql-50.png)  
+![LeetCode SQL Badge](https://github.com/ManasiBhosale/SQL-50/blob/1f891e012ad5788d56336e259b58a2e81c926866/Images/SQL-50.gif)  
+
